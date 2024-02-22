@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seekify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1f7d52792802eb40cf1eaf054ae3ba1c274a08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daac3c227dab90cd69de30795934b5b8ad63e686")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seekify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seekify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
